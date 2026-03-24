@@ -21,8 +21,9 @@
 
 ## 📬 Hubungi Saya
 <p align="center">
-  <a href="https://linkedin.com/">LinkedIn</a> |
-  <a href="https://discord.com/">Discord</a>
+  <a href="https://www.linkedin.com/in/USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
